@@ -2,6 +2,6 @@
 
 int main()
 {
-     //My code here
-     std::cout << "Hello World\n";
+    //My code here
+    std::cout << "Hello World\n";
 }
